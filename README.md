@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go         3 hrs 11 mins   ███████████████▓░░░░░░░░░   62.76 % 
+YAML       56 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Makefile   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+VimL       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Other      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 <!--END_SECTION:waka-->
 
