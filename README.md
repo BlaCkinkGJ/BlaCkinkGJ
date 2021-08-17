@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other      2 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-Go         1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Markdown   1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-C          1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Docker     28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Other      3 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   35.06 % 
+C          1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Go         1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Markdown   1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Docker     28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 <!--END_SECTION:waka-->
 
