@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 [![BlaCkinkGJ's github stats](https://github-readme-stats.vercel.app/api?username=BlaCkinkGJ)](https://github.com/BlaCkinkGJ/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlaCkinkGJ&layout=compact)](https://github.com/BlaCkinkGJ/github-readme-stats)
-
 ### Coding Acitivity
 
 <img height="400" img src="https://wakatime.com/share/@BlaCkinkGJ/81c9acfb-f18d-487f-97f9-374eafbf822d.svg">
