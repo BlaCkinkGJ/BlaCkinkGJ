@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other   14 mins         ████████████████████▓░░░░   82.78 % 
-Roff    2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Other   7 mins          █████████████████░░░░░░░░   68.57 % 
+Roff    2 mins          ███████░░░░░░░░░░░░░░░░░░   28.10 % 
 ```
 <!--END_SECTION:waka-->
 
