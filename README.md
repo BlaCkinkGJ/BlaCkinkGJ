@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C            24 hrs 20 mins  █████████████████▓░░░░░░░   70.44 % 
-C++          7 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 % 
-Makefile     1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Other        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+C            23 hrs 33 mins  ██████████████████░░░░░░░   72.62 % 
+C++          5 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Makefile     1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Other        1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
 
