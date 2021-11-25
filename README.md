@@ -31,10 +31,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++      1 hr 12 mins    ███████████████████░░░░░░   76.19 % 
-Bash     14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Python   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-C        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+C++    1 hr 1 min      ████████████████████░░░░░   80.58 % 
+Bash   14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
 ```
 <!--END_SECTION:waka-->
 
