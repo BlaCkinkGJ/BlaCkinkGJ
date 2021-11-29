@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++    1 hr 1 min      ████████████████████░░░░░   80.58 % 
-Bash   14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
