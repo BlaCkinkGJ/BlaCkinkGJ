@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C      4 hrs 30 mins   █████████████████████████   99.99 % 
+C          4 hrs 30 mins   █████████████████████████   99.90 % 
 ```
 <!--END_SECTION:waka-->
 
