@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C          4 hrs 35 mins   ██████████████████████▓░░   91.06 % 
-Text       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-C++        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+C          3 hrs 29 mins   ██████████████████████░░░   88.58 % 
+Text       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+C++        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 <!--END_SECTION:waka-->
 
