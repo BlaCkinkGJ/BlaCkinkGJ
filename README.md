@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C          24 mins         ██████████▒░░░░░░░░░░░░░░   41.05 % 
-Text       19 mins         ████████▒░░░░░░░░░░░░░░░░   32.75 % 
-Makefile   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-C++        6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Makefile   8 mins          ████████████████████████▒   97.97 % 
 ```
 <!--END_SECTION:waka-->
 
