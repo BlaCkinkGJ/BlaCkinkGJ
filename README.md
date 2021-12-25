@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Makefile   8 mins          ████████████████████████▒   97.97 % 
+
 ```
 <!--END_SECTION:waka-->
 
