@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-
+C       7 mins          ██████████▓░░░░░░░░░░░░░░   42.83 % 
+VimL    4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.79 % 
+JSON    4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.05 % 
 ```
 <!--END_SECTION:waka-->
 
