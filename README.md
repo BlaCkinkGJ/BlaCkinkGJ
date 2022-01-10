@@ -31,11 +31,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C      23 mins         ██████████░░░░░░░░░░░░░░░   40.52 % 
-Rust   10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Go     10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.96 % 
-VimL   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-JSON   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+C       7 mins          ██████████████████████▓░░   91.16 % 
 ```
 <!--END_SECTION:waka-->
 
